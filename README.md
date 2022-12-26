@@ -1,8 +1,7 @@
 ### Hi there 👋
  ## ▎🛠 Tech Stacks
 - Algorithm : ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
- ## 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=qkr9510)](https://solved.ac/qkr9510)<br/>
+
 <!--
 **workingoncoding/workingoncoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
